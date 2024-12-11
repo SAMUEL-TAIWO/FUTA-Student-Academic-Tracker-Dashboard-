@@ -4,7 +4,7 @@
 ## Get a Sneak Peek,Experience the dashboard live and explore its interactive features:
  
 ### Dashboard Access 🔗  
-📥 ** [Click here to Check out the interactive version of the dashboard ] (https://app.powerbi.com/groups/me/reports/cc902d41-6757-4ee4-afd9-50322f5c970c?ctid=682106db-9a7b-4b35-b9a0-88473385d6cf&pbi_source=linkShare) **                                                   |
+📥 **[Click here to Check out the interactive version of the dashboard ](https://app.powerbi.com/groups/me/reports/cc902d41-6757-4ee4-afd9-50322f5c970c?ctid=682106db-9a7b-4b35-b9a0-88473385d6cf&pbi_source=linkShare)**                                                   |
 ---
 ## Background ℹ️  
 The **FUTA Student Academic Tracker Dashboard** is an interactive tool designed to analyze and visualize student performance data over five academic years at the Federal University of Technology Akure (FUTA). This dashboard helps university management make data-driven decisions by identifying trends, understanding student demographics, and providing actionable insights to enhance academic outcomes.  
@@ -44,7 +44,11 @@ The **FUTA Student Academic Tracker Dashboard** provides a comprehensive view of
 ---
 
 ### Screenshots:  
-Here’s a glimpse of the dashboard’s layout and the key visual insights:                                                  |
+Here’s a glimpse of the dashboard’s layout and the key visual insights:
+![futa dashboard 1](https://github.com/user-attachments/assets/9c69fee6-cea8-466f-8d0f-21e4a51ec103)
+
+![futa dasboard 9](https://github.com/user-attachments/assets/85f7835a-7d0b-4e05-9c88-c92544d8be03)
+
 ---
 
 ## Collaborate With Us 🚀  
